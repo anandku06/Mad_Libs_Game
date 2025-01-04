@@ -25,5 +25,7 @@ public class MadLibsGame {
         System.out.println("In an exhibit, I saw a " + n1 + ".");
         System.out.println(n1 + " was " + adj2 + " and " + v1 + "!");
         System.out.println("I was " + adj3 + "!");
+
+        scanner.close();
     }
 }
